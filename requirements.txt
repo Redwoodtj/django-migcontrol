@@ -10,3 +10,4 @@ wagtail-footnotes>=0.8.1,<0.10
 lxml>=4.7
 sorl-thumbnail
 uTidylib==0.8
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -1,5 +1,5 @@
 Django>=3.2,<3.3
-wagtail>=2.15,<2.18
+wagtail>=6.0.5,<2.18
 django_libsass
 django-compressor<3
 psycopg2-binary
